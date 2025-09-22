@@ -1,0 +1,193 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">quantity</custom-field>
+        <custom-field action="translate">custom-title</custom-field>
+        <custom-field action="copy">weight</custom-field>
+        <custom-field action="translate">custom-description</custom-field>
+        <custom-field action="ignore">date-added</custom-field>
+
+        <custom-field action="copy">min_price</custom-field>
+        <custom-field action="copy">sale_price</custom-field>
+        <custom-field action="copy">rate_review</custom-field>
+        <custom-field action="copy">gallery</custom-field>
+        <custom-field action="copy">is_featured</custom-field>
+        <custom-field action="copy">st_google_map</custom-field>
+        <custom-field action="copy">discount_type</custom-field>
+        <custom-field action="copy">multi_location</custom-field>
+        <custom-field action="copy">address</custom-field>
+        <custom-field action="copy">enable_street_views_google_map</custom-field>
+        <custom-field action="copy">st_booking_option_type</custom-field>
+        <custom-field action="copy">rental_number</custom-field>
+        <custom-field action="copy">rental_max_adult</custom-field>
+        <custom-field action="copy">rental_max_children</custom-field>
+        <custom-field action="copy">rental_bed</custom-field>
+        <custom-field action="copy">rental_bath</custom-field>
+        <custom-field action="copy">rental_size</custom-field>
+        <custom-field action="copy">rental_single_layout_v2</custom-field>
+        <custom-field action="copy">video</custom-field>
+        <custom-field action="copy">disable_adult_name</custom-field>
+        <custom-field action="copy">disable_children_name</custom-field>
+        <custom-field action="copy">agent_email</custom-field>
+        <custom-field action="copy">agent_website</custom-field>
+        <custom-field action="copy">agent_phone</custom-field>
+        <custom-field action="copy">st_fax</custom-field>
+        <custom-field action="copy">price</custom-field>
+        <custom-field action="copy">discount_type_no_day</custom-field>
+        <custom-field action="copy">extra_price_unit</custom-field>
+        <custom-field action="copy">is_sale_schedule</custom-field>
+        <custom-field action="copy">rentals_booking_period</custom-field>
+        <custom-field action="copy">rentals_booking_min_day</custom-field>
+        <custom-field action="copy">st_rental_external_booking</custom-field>
+        <custom-field action="copy">allow_group_day</custom-field>
+        <custom-field action="copy">st_allow_cancel</custom-field>
+        <custom-field action="copy">st_cancel_percent</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_submit_form</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_billplz</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_dpo</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_ipay88</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_mercadopago</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_onepay_atm</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_onepay</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_paypal</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_payu</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_payulatam</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_payumoney</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_razor</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_st_twocheckout</custom-field>
+        <custom-field action="copy">is_meta_payment_gateway_vina_stripe</custom-field>
+        <custom-field action="copy">id_location</custom-field>
+        <custom-field action="copy">location_id</custom-field>
+        <custom-field action="copy">map_lat</custom-field>
+        <custom-field action="copy">map_lng</custom-field>
+        <custom-field action="copy">map_zoom</custom-field>
+        <custom-field action="copy">map_type</custom-field>
+        <custom-field action="copy">max_price</custom-field>
+        <custom-field action="copy">st_upsell</custom-field>
+
+
+		<custom-field action="copy">tour_price_by</custom-field>
+		<custom-field action="copy">discount_by_people_type</custom-field>
+		<custom-field action="copy">calculator_discount_by_people_type</custom-field>
+		<custom-field action="copy">type_tour</custom-field>
+		<custom-field action="copy">tours_booking_period</custom-field>
+		<custom-field action="copy">st_tour_external_booking</custom-field>
+		<custom-field action="copy">min_people</custom-field>
+		<custom-field action="copy">tours_program_style</custom-field>
+		<custom-field action="copy">adult_price</custom-field>
+		<custom-field action="copy">child_price</custom-field>
+		<custom-field action="copy">duration_day</custom-field>
+		<custom-field action="copy">max_people</custom-field>
+		<custom-field action="copy">tours_include</custom-field>
+		<custom-field action="copy">tours_exclude</custom-field>
+		<custom-field action="copy">tours_highlight</custom-field>
+		<custom-field action="copy">tours_program</custom-field>
+		<custom-field action="copy">tours_faq</custom-field>
+
+
+		<custom-field action="copy">activity_include</custom-field>
+		<custom-field action="copy">activity_exclude</custom-field>
+		<custom-field action="copy">activity_highlight</custom-field>
+		<custom-field action="copy">activity_program_style</custom-field>
+		<custom-field action="copy">activity_program</custom-field>
+		<custom-field action="copy">activity_faq</custom-field>
+		<custom-field action="copy">st_activity_external_booking_link</custom-field>
+
+
+		<custom-field action="copy">price_avg</custom-field>
+		<custom-field action="copy">hotel_layout_style</custom-field>
+		<custom-field action="copy">hotel_star</custom-field>
+		<custom-field action="copy">is_auto_caculate</custom-field>
+		<custom-field action="copy">allow_full_day</custom-field>
+		<custom-field action="copy">check_in_time</custom-field>
+		<custom-field action="copy">check_out_time</custom-field>
+		<custom-field action="copy">hotel_booking_period</custom-field>
+		<custom-field action="copy">min_book_room</custom-field>
+
+
+		<custom-field action="copy">room_parent</custom-field>
+		<custom-field action="copy">number_room</custom-field>
+		<custom-field action="copy">price_by_per_person</custom-field>
+		<custom-field action="copy">bed_number</custom-field>
+		<custom-field action="copy">room_footage</custom-field>
+		<custom-field action="copy">st_room_external_booking</custom-field>
+		<custom-field action="copy">default_state</custom-field>
+
+
+		<custom-field action="copy">auto_transmission</custom-field>
+		<custom-field action="copy">fee_cancellation</custom-field>
+		<custom-field action="copy">pay_at_pick_up</custom-field>
+		<custom-field action="copy">unlimited_mileage</custom-field>
+		<custom-field action="copy">shuttle_to_car</custom-field>
+		<custom-field action="copy">car_type</custom-field>
+		<custom-field action="copy">price_type</custom-field>
+		<custom-field action="copy">is_custom_price</custom-field>
+		<custom-field action="copy">number_car</custom-field>
+		<custom-field action="copy">st_car_external_booking</custom-field>
+		<custom-field action="copy">num_passenger</custom-field>
+		<custom-field action="copy">journey</custom-field>
+		<custom-field action="copy">discount</custom-field>
+
+
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">book</custom-type>
+        <custom-type translate="1">DVD</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">genre</taxonomy>
+        <taxonomy translate="1">type</taxonomy>
+        <taxonomy translate="0">publisher</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="my_plugins_options">
+            <key name="option_name_1" />
+            <key name="option_name_2" />
+            <key name="options_group_1">
+                <key name="sub_option_name_11" />
+                <key name="sub_option_name_12" />
+            </key>
+            <key name="options_group_2">
+                <key name="sub_option_name_21" />
+                <key name="sub_option_name_22" />
+            </key>
+        </key>
+        <key name="simple_string_option" />
+    </admin-texts>
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_language_switcher_sidebar">0</key>
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>
+    </language-switcher-settings>
+</wpml-config>
+
+

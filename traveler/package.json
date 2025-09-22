@@ -1,0 +1,63 @@
+{
+  "name": "traveler",
+  "version": "1.0.0",
+  "description": "top 1 booking theme on themeforest",
+  "main": "src/app.js",
+  "scripts": {
+    "watch": "gulp default",
+    "scss": "gulp scss",
+    "settings-dev": "cross-env NODE_ENV=development webpack --watch --mode=development --config assets/src/webpack.settings.dev.config.js",
+    "settings-build": "cross-env NODE_ENV=production webpack --progress --hide-modules --mode=production --config assets/src/webpack.settings.prod.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/shinethemeteam/traveler/Travel.git"
+  },
+  "author": "Shinetheme",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "cross-env": "^5.2.0",
+    "graceful-fs": "^4.2.2",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-scss": "^1.4.0",
+    "lodash": "^4.17.15",
+    "natives": "^1.1.6",
+    "sass-loader": "^7.1.0",
+    "uglify-js": "^3.5.4",
+    "uglifyjs": "^2.4.11",
+    "vue": "^2.6.10",
+    "vue-form-generator": "^2.3.4",
+    "vue-loader": "^15.7.0",
+    "vue-mce": "^1.5.0",
+    "vue-router": "^3.0.5",
+    "vue-select": "^2.6.4",
+    "vue-select-image": "^1.7.0",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.6.10",
+    "vue-tinymce": "^1.0.5",
+    "vue-tinymce-editor": "^1.6.2",
+    "vue2-ace-editor": "0.0.9",
+    "vue2-editor": "^2.6.6",
+    "vuedraggable": "^2.20.0",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.1.1",
+    "webpack-notifier": "^1.7.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "grunt": "^1.6.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^3.4.0",
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.14",
+    "style-loader": "^0.21.0"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/shinethemeteam/traveler/Travel/issues"
+  },
+  "homepage": "https://gitlab.com/shinethemeteam/traveler/Travel#readme"
+}
