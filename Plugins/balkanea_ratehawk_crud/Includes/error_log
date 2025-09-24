@@ -1,0 +1,124 @@
+[21-Aug-2025 12:14:36 UTC] PHP Warning:  require_once(/path/to/your/wp-load.php): Failed to open stream: No such file or directory in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 2
+[21-Aug-2025 12:14:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/path/to/your/wp-load.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 2
+[21-Aug-2025 12:19:33 UTC] PHP Warning:  require_once(/path/to/your/wp-load.php): Failed to open stream: No such file or directory in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 2
+[21-Aug-2025 12:19:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/path/to/your/wp-load.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 2
+[21-Aug-2025 13:57:46 UTC] PHP Warning:  require_once(/../../../../wp-load.php): Failed to open stream: No such file or directory in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 13:57:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/../../../../wp-load.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 13:58:46 UTC] PHP Warning:  require_once(/../../../../wp-load.php): Failed to open stream: No such file or directory in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 13:58:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/../../../../wp-load.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 13:59:40 UTC] PHP Warning:  require_once(/../../../../wp-load.php): Failed to open stream: No such file or directory in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 13:59:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/../../../../wp-load.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 14:01:28 UTC] PHP Warning:  require_once(/../../../../wp-load.php): Failed to open stream: No such file or directory in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 14:01:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/../../../../wp-load.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 14:01:32 UTC] PHP Warning:  require_once(/../../../../wp-load.php): Failed to open stream: No such file or directory in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 14:01:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/../../../../wp-load.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 14:01:44 UTC] PHP Warning:  require_once(/../../../../wp-load.php): Failed to open stream: No such file or directory in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 14:01:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/../../../../wp-load.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 3
+[21-Aug-2025 14:02:37 UTC] PHP Warning:  require_once(/../../../../wp-load.php): Failed to open stream: No such file or directory in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 4
+[21-Aug-2025 14:02:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/../../../../wp-load.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 4
+[21-Aug-2025 14:02:41 UTC] PHP Warning:  require_once(/../../../../wp-load.php): Failed to open stream: No such file or directory in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 4
+[21-Aug-2025 14:02:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/../../../../wp-load.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/export_settings.php on line 4
+[25-Aug-2025 03:13:34 UTC] PHP Parse error:  syntax error, unexpected double-quote mark in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 87
+[25-Aug-2025 03:14:28 UTC] PHP Parse error:  syntax error, unexpected double-quote mark in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 87
+[25-Aug-2025 03:16:41 UTC] PHP Parse error:  syntax error, unexpected double-quote mark in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 87
+[25-Aug-2025 03:23:41 UTC] PHP Parse error:  syntax error, unexpected double-quote mark in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 87
+[25-Aug-2025 03:28:00 UTC] PHP Parse error:  syntax error, unexpected double-quote mark in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 94
+[25-Aug-2025 03:37:05 UTC] PHP Parse error:  syntax error, unexpected double-quote mark in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 94
+[25-Aug-2025 03:37:45 UTC] PHP Parse error:  syntax error, unexpected double-quote mark in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 94
+[25-Aug-2025 03:39:55 UTC] PHP Warning:  The use statement with non-compound name 'HotelFlag' has no effect in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 34
+[25-Aug-2025 03:39:55 UTC] PHP Warning:  require_once(/home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/wp-load.php): Failed to open stream: No such file or directory in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 67
+[25-Aug-2025 03:39:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/wp-load.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 67
+[25-Aug-2025 03:45:53 UTC] PHP Warning:  The use statement with non-compound name 'HotelFlag' has no effect in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 34
+[25-Aug-2025 03:55:09 UTC] PHP Warning:  The use statement with non-compound name 'HotelFlag' has no effect in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 34
+[25-Aug-2025 04:03:27 UTC] PHP Warning:  The use statement with non-compound name 'HotelFlag' has no effect in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 34
+[25-Aug-2025 04:08:13 UTC] PHP Warning:  The use statement with non-compound name 'HotelFlag' has no effect in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 34
+[25-Aug-2025 04:10:27 UTC] PHP Warning:  The use statement with non-compound name 'HotelFlag' has no effect in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 34
+[25-Aug-2025 04:11:15 UTC] PHP Parse error:  syntax error, unexpected variable "$credentials", expecting "," or ";" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 109
+[25-Aug-2025 04:11:19 UTC] PHP Parse error:  syntax error, unexpected variable "$credentials", expecting "," or ";" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 109
+[25-Aug-2025 04:11:49 UTC] PHP Warning:  The use statement with non-compound name 'HotelFlag' has no effect in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 34
+[25-Aug-2025 04:13:36 UTC] PHP Warning:  The use statement with non-compound name 'HotelFlag' has no effect in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 34
+[25-Aug-2025 04:17:18 UTC] PHP Warning:  The use statement with non-compound name 'HotelFlag' has no effect in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 34
+[25-Aug-2025 04:19:49 UTC] PHP Warning:  The use statement with non-compound name 'HotelFlag' has no effect in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import.php on line 34
+[26-Aug-2025 11:22:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/dump.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/dump.php on line 4
+[26-Aug-2025 11:23:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/dump.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/dump.php on line 4
+[26-Aug-2025 11:24:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/dump.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/dump.php on line 4
+[26-Aug-2025 11:26:43 UTC] Plugin not active or failed to fetch settings.
+
+[01-Sep-2025 15:34:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/config.php:5
+Stack trace:
+#0 /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/cron_job_import_reviews.php(11): include()
+#1 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/config.php on line 5
+[01-Sep-2025 15:50:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/config.php:5
+Stack trace:
+#0 /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/cron_job_import_reviews.php(12): include()
+#1 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/config.php on line 5
+[01-Sep-2025 15:51:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/config.php:5
+Stack trace:
+#0 /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/cron_job_import_reviews.php(12): include()
+#1 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/config.php on line 5
+[01-Sep-2025 15:51:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/config.php:5
+Stack trace:
+#0 /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/cron_job_import_reviews.php(12): include()
+#1 {main}
+  thrown in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/config.php on line 5
+[17-Sep-2025 12:57:58 UTC] PHP Parse error:  syntax error, unexpected token "/" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 236
+[17-Sep-2025 12:58:04 UTC] PHP Parse error:  syntax error, unexpected token "/" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 236
+[17-Sep-2025 12:58:32 UTC] PHP Parse error:  syntax error, unexpected token "/" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 236
+[17-Sep-2025 12:58:40 UTC] PHP Parse error:  syntax error, unexpected token "/" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 236
+[17-Sep-2025 12:59:19 UTC] PHP Fatal error:  Cannot redeclare header() in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 5
+[17-Sep-2025 13:01:51 UTC] PHP Fatal error:  Cannot redeclare header() in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 12
+[17-Sep-2025 13:02:48 UTC] PHP Fatal error:  Cannot redeclare header() in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 17
+[17-Sep-2025 13:22:27 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 735
+[17-Sep-2025 13:22:35 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 735
+[17-Sep-2025 13:25:27 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 737
+[17-Sep-2025 13:26:10 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 744
+[17-Sep-2025 13:27:53 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 741
+[17-Sep-2025 13:28:30 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 741
+[17-Sep-2025 13:29:06 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 741
+[18-Sep-2025 22:03:26 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ";", expecting ")" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 630
+[18-Sep-2025 22:04:00 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ";", expecting ")" in /home/balkanea/public_html/wp-content/plugins/balkanea_ratehawk_crud/Includes/crone_job_import1.php on line 630
