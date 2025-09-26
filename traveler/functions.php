@@ -1103,24 +1103,26 @@ function my_custom_email_order_details_after_room_details( $order, $sent_to_admi
         $free_cancellation = (new DateTime($order->get_meta('free_cancellation')))->format('d.m.Y H:i:s');
         echo '<br /><strong>Free cancellation before:</strong> ' . $free_cancellation . '<br/>';
     }
-
-    //$order_data = $order->get_meta('_order_data');
-    //$order_data = json_decode($order_data, true);
-
-    //var_dump($order_data);
-    //var_dump($order_data->get_meta('start'));
-
+    
+    $hotel_external_id = $order->get_meta('hotel_name');
+    $hotel = Hotel::getStaticDataForHotel($hotel_external_id);
 
     $start_date = $order->get_meta('check_in');
     $end_date = $order->get_meta('check_out');
-    echo '<strong>Start Date:</strong> ' . $start_date . '<br/>';
-    echo '<strong>End Date:</strong> ' . $end_date . '<br/>';
+    
+    $date = DateTime::createFromFormat('d/m/Y', $start_date);
+    $day_start_date = $date->format('l');
+    $date = DateTime::createFromFormat('d/m/Y', $end_date);
+    $day_end_date = $date->format('l');
+    
+    echo '<strong>Check-in:</strong> ' . $day_start_date . ", " . $start_date . " " . $hotel->check_in_time . 'h<br/>';
+    echo '<strong>Check-out:</strong> ' . $day_end_date . ", " . $end_date . " " . $hotel->check_out_time . 'h<br/><br/>';
 
     $adult_number = $order->get_meta('adults');
     $child_number = $order->get_meta('children');
     echo '<strong>Number of Guests:</strong><br/>';
-    echo '<strong>Adults:</strong> ' . $adult_number . '<br/>';
-    echo '<strong>Children:</strong> ' . $child_number . '<br/>';
+    echo 'Adults: ' . $adult_number . '<br/>';
+    echo 'Children: ' . $child_number . '<br/><br/>';
 
     $rooms = $order->get_meta('rooms');
     $nights = $order->get_meta('nights');
